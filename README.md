@@ -1,0 +1,2 @@
+# satriadata
+rahasia
