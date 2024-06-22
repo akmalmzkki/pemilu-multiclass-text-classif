@@ -1,2 +1,1 @@
-# satriadata
-rahasia
+
